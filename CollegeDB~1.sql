@@ -1,4 +1,4 @@
--- College Database Management System in Oracle SQL
+-- University Database Management System in Oracle SQL
 
 -- 1. Creating Tables with Relationships and Constraints
 -- Table for Departments to store department details
